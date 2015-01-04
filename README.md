@@ -4,15 +4,16 @@ Sym4-Game
 Liu, Jeremy. 2014
 
 This is a 4x4 Sudoku game that includes 4 different game Sets:
-1,2,3,4
-A,B,C,D
-P,Q,R,S
-D,H,S,C (cards)
+- 1,2,3,4
+- A,B,C,D
+- P,Q,R,S
+- D,H,S,C (Card Suits)
 
 Included:
-.jar file to run Sym4Game
-.java file to view all code and comments
-.class files to run the .java file
+- .jar file to run Sym4Game
+- .java file to view all code and comments
+- .class files to run the .java file
+- Term Project .docx that contains important algorithms and test cases
 
 Features:
 - Keeps track of how many moves you make and scores you based on the amount of moves taken (can be negative, so don't mess up!)
